@@ -1,5 +1,5 @@
 ## Intro
-Hey :), welcome to profile!<br>
+Hey :), welcome to my profile! 👋<br>
 My name is Octave, and I am currently trying to build some projects for fun and for the sake of learning.<br>
 I am looking forward to publishing them on my GitHub!
 
