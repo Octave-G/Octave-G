@@ -1,4 +1,7 @@
-## Hi there 👋
+## Intro
+Hey :), welcome to profile!<br>
+My name is Octave, and I am currently trying to build some projects for fun and for the sake of learning.<br>
+I am looking forward to publishing them on my GitHub!
 
 <!--
 **Octave-G/Octave-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
